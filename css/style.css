@@ -1,0 +1,163 @@
+
+    /* Estilo personalizado para ajustar a altura do carrossel */
+    .carousel-item {
+      height: 350px;
+    }
+/* Estilo personalizado para ajustar a altura do carrossel */
+    .carousel-item {
+      height: 300px;
+    }
+
+    /* Estilo para o texto com efeito paralaxe */
+    .parallax {
+      background-image: url('https://via.placeholder.com/1920x1080');
+      background-attachment: fixed;
+      background-size: cover;
+      background-position: center;
+      height: 400px;
+      color: black;
+      padding-top: 400px; /* Ajuste conforme necessário */
+    }
+
+        /* Estilo personalizado para ajustar a altura do carrossel */
+    .carousel-item {
+      height: 500px;
+    }
+
+    /* Estilo para o texto explicativo */
+    .museu-text {
+      background-color: #f8f9fa;
+      padding: 50px;
+      text-align: center;
+    }
+
+    /* Estilo para o efeito paralaxe */
+    .parallax {
+      background-attachment: fixed;
+      background-size: cover;
+      background-position: center;
+      height: 600px;
+      color: white;
+      padding-top: 100px; /* Ajuste conforme necessário */
+      text-align: center;
+    }
+
+    /* Estilo para o vídeo */
+    .video-container {
+      position: relative;
+      padding-bottom: 56.25%; /* 16:9 */
+      height: 0;
+      overflow: hidden;
+      margin-top: 50px;
+    }
+
+    .video-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    p{
+      color: black;
+      text-justify: auto;
+    }
+    h2{
+      color: black;
+    }
+
+    /* Estilo personalizado para ajustar a altura do carrossel */
+    .carousel-item {
+      height: 600px;
+    }
+
+    /* Estilo para o texto explicativo */
+    .museu-text {
+      background-color: #f8f9fa;
+      padding: 50px;
+      text-align: justify;
+      font-size: 22px;
+      font-weight: bold;
+      color: black;
+    }
+
+    /* Estilo para o vídeo */
+    .video-container {
+      position: relative;
+      padding-bottom: 56.25%; /* 16:9 */
+      height: 0;
+      overflow: hidden;
+      margin-top: 50px;
+    }
+
+    .video-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .texto1{
+
+    }
+
+    .frase-estilizada {
+    background-color: #ff7f50; /* Cor de fundo laranja */
+    padding: 20px; /* Espaçamento interno */
+    border-radius: 10px; /* Borda arredondada */
+    text-align: center; /* Alinhamento centralizado */
+    color: black;
+}
+
+.frase-estilizada p {
+    font-family: 'Arial Black', sans-serif; /* Fonte impactante */
+    font-size: 24px; /* Tamanho da fonte */
+    color: #ffffff; /* Cor do texto branca */
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5); /* Sombra do texto */
+}
+
+li{
+    
+   font-family: "Allison", cursive;
+}
+h3{
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label, input, textarea, button {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#successMessage {
+    text-align: center;
+    margin-top: 20px;
+    display: none;
+    color: green;
+}
